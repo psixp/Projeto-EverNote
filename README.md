@@ -1,8 +1,7 @@
-# Projeto-EverNote
+# -EverNote
 <h1 align="center">Projeto Ever-Note</h1>
 
-<p align='center'>
-Esse projeto tem por finalidade explorar meus conhecimentos desenvolvidos no curso de desenvolvimento focado em js,react e node.
+<p align='center'>Esse projeto tem por finalidade explorar meus conhecimentos desenvolvidos no curso de desenvolvimento focado em js,react e node.
 
 Nele vamos criar um aplicação completa com diversos conceitos para realizar o desenvolimento de um app de notas organizadas.
 
@@ -11,18 +10,18 @@ Espero agregar a alguem com essas linhas de codigos e informo que ele estara em 
 
 ✅ Itens do README
 
-[] Logo ou Banner
-[x] Título e Descrição
-[] Badges
-[] Status do Projeto
-[] Tabela de Conteúdos
-[] Features
-[] Demonstração da Aplicação
-[] Pré-requisitos e como rodar a aplicação/testes
-[] Tecnologias utilizadas
-[] Contribuição
-[] Autor
-[] Licença
+- [ ] Logo ou Banner
+- [x] Título e Descrição
+- [ ] Badges
+- [x] Status do Projeto
+- [ ] Tabela de Conteúdos
+- [x] Features
+- [ ] Demonstração da Aplicação
+- [ ] Pré-requisitos e como rodar a aplicação/testes
+- [ ] Tecnologias utilizadas
+- [ ] Contribuição
+- [ ] Autor
+- [ ] Licença
 
 ✅ Tabela de Conteúdos
 
@@ -41,11 +40,19 @@ Espero agregar a alguem com essas linhas de codigos e informo que ele estara em 
 ✅ Features
 ### Features Do Projeto
 
-- [x] Cadastro de usuário
-- [x] Cadastro de notas
-- [ ] Autenticação de usuário
+- [x] Cadastro de Usuário
+- [x] Cadastro de Notas
+- [x] Autenticação de Usuário
+- [x] Permição de Usuário
+- [x] Validando Usuário da Requisição
+- [x] Criação de Notas
+- [x] Atualizar Notas
+- [x] Baixar Notas
+- [x] Deletar Notas
+
 
 ✅ Demonstração da aplicação
+
 
 ✅ Pré-requisitos e como rodar a aplicação/testes
 
@@ -58,3 +65,4 @@ Espero agregar a alguem com essas linhas de codigos e informo que ele estara em 
 *   bcrypt - <a href="https://openbase.com/js/bcrypt/documentation">BcryPt</a>
 *   jwt - <a href="#">JsonWebToken</a>
 *   dotenv - <a href="#">DotEnv</a>
+*	cors - <a href="#">Cors</a>
